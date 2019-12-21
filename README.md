@@ -7,7 +7,7 @@ Procedure:
 - For the given requiremetns of the system, an ER diagram was built and relation database systems were designed.
 - Data dictionary was defined to store the details about the data
 - Azure SQL database server was used to create database
-- SQL queries were run to prepare tables wiht required inputs.
+- SQL queries were run to prepare tables with required inputs.
 - SQL queries were made to execute followig:
 
 1. Enter a new customer (30/day).
