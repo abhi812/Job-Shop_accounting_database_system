@@ -8,7 +8,7 @@ Procedure:
 - Data dictionary was defined to store the details about the data
 - Azure SQL database server was used to create database
 - SQL queries were run to prepare tables with required inputs.
-- SQL queries were made to execute followig:
+- SQL queries were made to execute following:
 
 1. Enter a new customer (30/day).
 2. Enter a new department (infrequent).
@@ -25,5 +25,5 @@ Procedure:
 14. Delete all cut-jobs whose job-no is in a given range (1/month).
 15. Change the color of a given paint job (1/week).
 
--Further, application was built using JDBC to run SQL queries
+- Further, application was built using JDBC to run SQL queries
 - Finally, a web-based application was designed (for queries 1 and 13) using PHP.
