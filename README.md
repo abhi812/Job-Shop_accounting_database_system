@@ -1,5 +1,5 @@
 # DBMS
-This project I did as a part of the course "Database Management Systems" at the University of Oklahoma.
+This project was done as a part of the course "Database Management Systems" at the University of Oklahoma.
 
 Objective: To design a database system for a "Job-Shop Accounting System" using relational database concepts.
 
